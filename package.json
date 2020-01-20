@@ -1,13 +1,13 @@
 {
-  "id": "telegram",
-  "name": "Telegram",
-  "version": "1.0.5",
+  "id": "telegram-react",
+  "name": "Telegram-react",
+  "version": "1.0.0",
   "description": "Telegram",
   "main": "index.js",
-  "author": "Stefan Malzner <stefan@adlk.io>",
+  "author": "Stefan Müller <root@geeks-r-us.de>",
   "license": "MIT",
   "config": {
-    "serviceURL": "https://web.telegram.org",
+    "serviceURL": "https://evgeny-nadymov.github.io/telegram-react/",
     "hasDirectMessages": true,
     "hasNotificationSound": true
   }
