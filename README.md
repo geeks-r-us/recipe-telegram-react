@@ -12,6 +12,7 @@ Due to it's not in the official repository you need to copy the files of the plu
   * Linux: `~/.config/Franz/recipes/dev/telegram-react`
 2. Copy the files from this repository into the new folder
 3. Reload Franz
+4. Add Telegram-react by Add Service > Custom Service > Telegram-react
 
 ## Disclamer
 This is just a quick hack so no guarantie for nothing. 
