@@ -7,7 +7,7 @@ module.exports = Franz => {
     let count = 0;
     const searchElement = document.querySelector('#header-search-inputbox');
     if (!searchElement || searchElement.innerText === '') {
-      const elements = document.querySelectorAll('.dialog-badge');
+      const elements = document.querySelectorAll('.dialog-badge:not(.dialog-badge-muted)');
       if (elements) {
         for (let i = 0; i < elements.length; i += 1) {
           if (elements[i].innerHTML !== 0) {
